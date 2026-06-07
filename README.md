@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐘 BIG DATA — DD283 | Universidad Autónoma del Perú
 ## Semestre 2026-1 | Ingeniería de Sistemas | Ciclo VIII
 
@@ -222,3 +223,7 @@ Ver descripción completa en [proyectos/README_proyectos.md](./proyectos/README_
 *"Los datos son el nuevo petróleo — pero solo si saben refinarlo."*
 
 </div>
+=======
+# bigdata-ua-2026-1
+Curso de Big Data 2026-1
+>>>>>>> 17f56edb5aab2dda28148bc7c071a093d6eb9298
